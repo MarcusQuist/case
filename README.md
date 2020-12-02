@@ -19,8 +19,11 @@ Increase the count using the fibonacci number sequence.
 Add styling to the project.
 
 ### **Guide**
+When cloned from Git, run "yarn install" to install the required node modules. \
+\
 Due to StrictMode in development build, the app is rendered twice for testing.  \
 Hence, turn off (Errors) in console to properly see the result of question 1. \
+\
 **Question 1** The given data set is converted to snake_case and printed in Console. \
 **Question 2** The persons are rendered in bottom of the screen. \
 **Question 3** The increment, decrement, next prime decrement, and fibonacci increment is shown on the top of the screen with the buttons.
