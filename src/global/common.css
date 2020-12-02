@@ -1,0 +1,33 @@
+h1, h2, h3, h4{
+    z-index: 1;
+    font-weight: 400;
+    display: initial;
+    color: white;
+    font-weight: 400;
+}
+
+h1{
+    font-size: 40px;
+    line-height: 45px;
+}
+
+h2{
+    font-size: 30px;
+    line-height: 35px;
+}
+
+h3{
+    font-size: 25px;
+    line-height: 30px;
+}
+
+h4{
+    font-size: 18px;
+    line-height: 23px;
+}
+
+li{
+    color: var(--text);
+    font-size: 15px;
+    line-height: 18px;
+}
